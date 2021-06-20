@@ -1,7 +1,6 @@
 /*** src/index.js ***/
 import React, { Component } from 'react';
 import InputRange from 'react-input-range';
-import './styles.css';
 
 class TimeRangeSlider extends Component {
 
